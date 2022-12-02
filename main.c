@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    printf("Patarroyo tiene sueño \n");
+    printf("el computador tiene sueño \n");
     return (EXIT_SUCCESS);
 }
 
