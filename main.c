@@ -3,7 +3,8 @@
 
 int main(){
     printf("el computador tiene sueño v5 \n");
-        printf("lo que te dicte tu corazón \n");
-    return (EXIT_SUCCESS);
+    printf("lo que te dicte tu corazón \n");
+    printf("hoy está rindiendo mucho");
+        return (EXIT_SUCCESS);
 }
 
